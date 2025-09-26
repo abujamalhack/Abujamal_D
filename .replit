@@ -1,0 +1,8 @@
+run = "python main.py"
+language = "python3"
+entrypoint = "main.py"
+
+[packages]
+python-telegram-bot = "20.7"
+yt-dlp = "2023.11.16"
+flask = "2.3.3"
